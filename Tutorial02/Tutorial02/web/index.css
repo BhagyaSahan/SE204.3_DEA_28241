@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 18, 2024, 10:30:02 PM
+    Author     : User
+*/
+
+@charset "utf-8";
+.row .col-lg-12 h1 {
+}
+.row .col-lg-12 h1 {
+    text-align: center;
+    text-shadow: 0px 0px #08A458;
+    color: #1BA316;
+}
+.row .col-lg-12 form {
+    width: 400px;
+    text-align: left;
+}
+.container .row .col-lg-12 {
+    width: 400px;
+}
+form .form-group label {
+}
+.container-fluid .container .row {
+}
+form center .btn.btn-primary {
+    width: 300px;
+    background-color: #54CF47;
+    border-color: #54CF47;
+}
+.container-fluid .container {
+    padding-top: 20px;
+}
